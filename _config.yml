@@ -21,7 +21,7 @@ repository               : "olekol33/olekol33.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "oleg_profile.jpeg"
+  avatar           : # "oleg_profile.jpeg"
   name             : "Oleg Kolosov"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
