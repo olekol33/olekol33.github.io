@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Experience"
+# title: "Experience"
 author_profile: true
 redirect_from: 
   - /experience/
@@ -9,6 +9,8 @@ redirect_from:
 
 Work Experience
 =========
+
+
 Technion
 ------
 * TA in Charge of Information Storage Systems (236322)
