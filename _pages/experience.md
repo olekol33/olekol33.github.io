@@ -1,11 +1,13 @@
 ---
-permalink: /
-# title: "Experience"
-author_profile: false
-redirect_from: 
-  - /experience/
-  - /experience.html
+layout: archive
+#title: "CV"
+permalink: /experience/
+author_profile: true
+redirect_from:
+  - /experience
 ---
+
+{% include base_path %}
 
 
 Work Experience
