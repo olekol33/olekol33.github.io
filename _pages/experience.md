@@ -1,11 +1,12 @@
 ---
 permalink: /
 # title: "Experience"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /experience/
   - /experience.html
 ---
+
 
 Work Experience
 =========
