@@ -7,9 +7,41 @@ author_profile: true
 
 {% include base_path %}
 
-Table of CS and EE conferences by deadline, conference date, and Core 2023 ranking.
-Automatically updated from multiple sources.
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="container">
-  <iframe class="responsive-iframe" src="https://olekol33.github.io/csv-to-html-table/"></iframe>
-</div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Responsive iframe CSS from W3Schools */
+        .responsive-iframe-container {
+            position: relative;
+            overflow: hidden;
+            padding-top: 56.25%; /* 16:9 Aspect Ratio */
+        }
+
+        .responsive-iframe-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <p>Table of CS and EE conferences by deadline, conference date, and Core 2023 ranking.
+        Automatically updated from multiple sources.</p>
+
+    <!-- Responsive iframe -->
+    <div class="responsive-iframe-container">
+        <iframe src="https://olekol33.github.io/csv-to-html-table/" ></iframe>
+    </div>
+
+</body>
+
+</html>
+
