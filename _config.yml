@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Oleg's Homepage"
+title                    : "Oleg Kolosov: Homepage"
 title_separator          : "-"
 name                     : &name "Oleg Kolosov"
 description              : &description "personal description"
