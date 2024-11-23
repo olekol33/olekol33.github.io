@@ -16,6 +16,9 @@ My research focuses on the challenges of managing load in distributed edge syste
 
 Publications
 ======
+* [PASE: Pro-active Service Embedding in The Mobile Edge](https://link.springer.com/article/10.1007/s10922-024-09877-x)
+
+  Oleg Kolosov, Gala Yadgar, David Breitgand, Dean H. Lorenz. 2024 Journal of Network and Systems Management (JNSM).
 * [WoW-IO: a Gaming-Based Storage Trace Generator for Edge Computing](https://kolosov.cswp.cs.technion.ac.il/wp-content/uploads/sites/156/2024/05/WoW_IO__copy_.pdf)
 
   Oleg Kolosov, Tom Herman, Ido Zohar, Gala Yadgar. 2024 IEEE International Conference on Fog and Edge Computing (ICFEC).
