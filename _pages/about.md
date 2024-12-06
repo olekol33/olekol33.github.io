@@ -16,6 +16,9 @@ My research focuses on the challenges of managing load in distributed edge syste
 
 Publications
 ======
+* The Power of Alternatives in Network Embedding
+
+  Oleg Kolosov, Gala Yadgar, Rasoul Behravesh, David Breitgand, Dean H. Lorenz. To appear in IEEE International Conference on Computer Communications (INFOCOM 2025).
 * [PASE: Pro-active Service Embedding in The Mobile Edge](https://link.springer.com/article/10.1007/s10922-024-09877-x)
 
   Oleg Kolosov, Gala Yadgar, David Breitgand, Dean H. Lorenz. 2024 Journal of Network and Systems Management (JNSM).
