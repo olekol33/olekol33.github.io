@@ -30,10 +30,12 @@ PhD at the Technion - Israel Institue of Technology (2020-present)
 Computer science.
 Load management in distributed edge system (under the supervision of Prof. Gala Yadgar)
 
+
 MSc at Tel Aviv University (2013-2018)
 ----------------
 Electrical engineering.
 [On Fault Tolerance, Locality, and Optimality in Locally Repairable Codes](https://doi.org/10.1145/3381832) (under the supervision of Prof. Itzhak Tamo and Prof. Gala Yadgar)
+
 
 BSc at Tel Aviv University (2009-2013)
 --------------
