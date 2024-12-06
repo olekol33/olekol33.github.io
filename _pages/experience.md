@@ -13,15 +13,15 @@ redirect_from:
 Work Experience
 =========
 
-* TA in Charge of Information Storage Systems (236322) | Technion | 2021-present
+* TA in Charge of Information Storage Systems (236322) ◆ Technion ◆ 2021-present
     
-* TA of Information Storage Systems (236322) | Technion | 2020-2021
+* TA of Information Storage Systems (236322) ◆ Technion ◆ 2020-2021
 
-* Research Intern: Flexible virtual network embedding | IBM Research | 2021, 2022
+* Research Intern: Flexible virtual network embedding ◆ IBM Research ◆ 2021, 2022
 
-* Backend Engineer | Intel | 2015-2020
+* Backend Engineer ◆ Intel ◆ 2015-2020
 
-* Backend Engineer | AMD | 2013 - 2015
+* Backend Engineer ◆ AMD ◆ 2013 - 2015
 
 Education
 ==========
@@ -43,9 +43,9 @@ Electrical engineering.
 
 Other
 ========
-* Publicity Chair, Publication Chair | SYSTOR 2024
+* Publicity Chair, Publication Chair ◆ SYSTOR 2024
 
-* Publicity Chair | SYSTOR 2023
+* Publicity Chair ◆ SYSTOR 2023
 
 * Grants
   - Bley-Stein Travel Grant (2023)
