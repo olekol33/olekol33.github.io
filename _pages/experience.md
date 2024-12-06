@@ -25,6 +25,7 @@ Work Experience
 
 Education
 ==========
+
 PhD at the Technion - Israel Institue of Technology (2020-present)
 ---------
 Computer science.
